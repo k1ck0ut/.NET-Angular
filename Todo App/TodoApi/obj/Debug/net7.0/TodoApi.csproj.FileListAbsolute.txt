@@ -1,0 +1,66 @@
+C:\.NET & Angular\TodoApi\bin\Debug\net7.0\appsettings.Development.json
+C:\.NET & Angular\TodoApi\bin\Debug\net7.0\appsettings.json
+C:\.NET & Angular\TodoApi\bin\Debug\net7.0\TodoApi.exe
+C:\.NET & Angular\TodoApi\bin\Debug\net7.0\TodoApi.deps.json
+C:\.NET & Angular\TodoApi\bin\Debug\net7.0\TodoApi.runtimeconfig.json
+C:\.NET & Angular\TodoApi\bin\Debug\net7.0\TodoApi.dll
+C:\.NET & Angular\TodoApi\bin\Debug\net7.0\TodoApi.pdb
+C:\.NET & Angular\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\.NET & Angular\TodoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\.NET & Angular\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\.NET & Angular\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\.NET & Angular\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\TodoApi.csproj.AssemblyReference.cache
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\TodoApi.AssemblyInfoInputs.cache
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\TodoApi.AssemblyInfo.cs
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoApi.props
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\scopedcss\bundle\TodoApi.styles.css
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\TodoApi.csproj.CopyComplete
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\TodoApi.dll
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\refint\TodoApi.dll
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\TodoApi.pdb
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\TodoApi.genruntimeconfig.cache
+C:\.NET & Angular\TodoApi\obj\Debug\net7.0\ref\TodoApi.dll
+C:\.NET & Angular\Todo App\TodoApi\bin\Debug\net7.0\appsettings.Development.json
+C:\.NET & Angular\Todo App\TodoApi\bin\Debug\net7.0\appsettings.json
+C:\.NET & Angular\Todo App\TodoApi\bin\Debug\net7.0\TodoApi.exe
+C:\.NET & Angular\Todo App\TodoApi\bin\Debug\net7.0\TodoApi.deps.json
+C:\.NET & Angular\Todo App\TodoApi\bin\Debug\net7.0\TodoApi.runtimeconfig.json
+C:\.NET & Angular\Todo App\TodoApi\bin\Debug\net7.0\TodoApi.dll
+C:\.NET & Angular\Todo App\TodoApi\bin\Debug\net7.0\TodoApi.pdb
+C:\.NET & Angular\Todo App\TodoApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\.NET & Angular\Todo App\TodoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\.NET & Angular\Todo App\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\.NET & Angular\Todo App\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\.NET & Angular\Todo App\TodoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\TodoApi.csproj.AssemblyReference.cache
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\TodoApi.AssemblyInfoInputs.cache
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\TodoApi.AssemblyInfo.cs
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoApi.props
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\scopedcss\bundle\TodoApi.styles.css
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\TodoApi.csproj.CopyComplete
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\TodoApi.dll
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\refint\TodoApi.dll
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\TodoApi.pdb
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\TodoApi.genruntimeconfig.cache
+C:\.NET & Angular\Todo App\TodoApi\obj\Debug\net7.0\ref\TodoApi.dll

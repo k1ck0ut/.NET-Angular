@@ -1,0 +1,37 @@
+<div class="container">
+  <h1>ToDo</h1>
+
+  <form class="todo-form" (ngSubmit)="addTodo()">
+    <input type="text" name="title" [(ngModel)]="newTitle" placeholder="New task..." autocomplete="off" />
+    <button type="submit">Add</button>
+  </form>
+
+  @if (error) {
+  <div class="error">
+    {{ error }}
+  </div>
+  }
+
+  @if (isLoading) {
+  <p>Loading tasks...</p>
+  } @else {
+  @if (!todos.length) {
+  <p class="empty">While there are no tasks yet, add the first one!</p>
+  } @else {
+  <ul class="todo-list">
+    @for (todo of todos; track todo.id) {
+    <li [class.done]="todo.isDone">
+      <label class="todo-item">
+        <input type="checkbox" [checked]="todo.isDone" (change)="toggleTodo(todo)" />
+        <span>{{ todo.title }}</span>
+      </label>
+
+      <button type="button" class="delete-btn" (click)="deleteTodo(todo)" aria-label="Delete task">
+        ✕
+      </button>
+    </li>
+    }
+  </ul>
+  }
+  }
+</div>
